@@ -1,0 +1,10 @@
+{
+  "connectors": {
+    "iframeConnector": {
+      "url": "https://mavluda-trello.netlify.app"
+    }
+  },
+  "capabilities": ["callback", "card-buttons", "card-detail-badges"],
+  "name": "My Simple Power-Up",
+  "description": "A simple example Power-Up"
+}
